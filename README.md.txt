@@ -1,0 +1,1 @@
+“Car Articles” is very simple car blog website. The application will consist of users and articles about cars. Each user can register, login and logout. Users also can create articles. Admin can delete and edit articles.
